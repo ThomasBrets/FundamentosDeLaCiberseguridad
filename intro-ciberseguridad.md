@@ -42,6 +42,17 @@ Los analistas de seguridad trabajan proactivamente para evitar que se produzcan 
 - #### Realización periódica de auditorías de seguridad:
 Una auditoría de seguridad **comprueba los registros, actividades y otros documentos de seguridad** de una organización. Por ejemplo, un analista puede examinar problemas internamente para garantizar que la información sensible, como las contraseñas, no esté visible para toda la organización.
 
+## Terminología común de la ciberseguridad
+
+### Términos y conceptos clave en ciberseguridad
+Un analista de seguridad o de ciberseguridad se centra en **monitorear las redes en busca de infracciones.** También ayuda a **desarrollar estrategias para proteger una organización** e **investiga las tendencias de seguridad de las tecnologías de la información** (TI) para mantenerse alerta y al día sobre posibles amenazas. Además, **trabaja en la prevención de incidentes.** Para realizar este tipo de tareas, necesitarás desarrollar tus conocimientos sobre los siguientes conceptos clave. 
+
+### ***Cumplimiento normativo***
+Es el proceso de **adhesión a normas internas y reglamentos externos** que permite a las organizaciones evitar multas, auditorias y fallos de seguridad.
+
+### ***Marcos de seguridad***
+*Pautas* utilizadas para **crear planes para reducir el risego** y las amenazas a los datos y la privacidad. 
+
 
 
 
