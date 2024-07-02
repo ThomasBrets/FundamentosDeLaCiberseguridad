@@ -53,6 +53,30 @@ Es el proceso de **adhesión a normas internas y reglamentos externos** que perm
 ### ***Marcos de seguridad***
 *Pautas* utilizadas para **crear planes para reducir el risego** y las amenazas a los datos y la privacidad. 
 
+### ***Controles de seguridad***
+Son medidad diseñadas para **reducir riesgos de Seguridad específicos.** Se utiliza junto a los marcos de seguridad para establecer una postura de seguridad sólida.
+
+### ***Postura de seguridad***
+Es la capacidad de una organización de **administrar sus defensas de activos y datos críticos y reaccionar ante los cambios.** Una fuerte postura de sseguridad conduce a un menor riesgo en la organización.
+
+### ***Agente de amenza***
+Persona o grupo de personas que representan una **amenaza intencional para computadoras, apliaciones y redes.**
+
+### ***Seguridad de la red***
+Es un conjunto de practicas que buscan **evitar el acceso no autorizado a la infraestructura de red de una organización** (datos,servicios, sistemas, dispositivos).
+
+### ***Nube***
+Es una red formada por un **conjunto de servidores y computadoras que almacena recursos y datos** en ubicaciones físicas remotas conocidas como **centros de datos** a los que se puede acceder a traves de internet
+
+### ***Seguridad en la nube***
+Es el proceso de **garantizar que los activos almacenados en la nube esten bien configurados** o establecidos correctamente y su **acceso esté limitado a los usuarios autorizados.**
+
+### ***Porgramación***
+Es el proceso que permite crear un conjunto específico de instrucciones para que una computadora ejecute tareas. Estas pueden incluir:
+
+- Automatización de tareas repetitivas.
+- Revisión del tráfico web.
+- Alerta de actividades sospechosas.
 
 
 
