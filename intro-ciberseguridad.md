@@ -59,9 +59,6 @@ Son medidad diseñadas para **reducir riesgos de Seguridad específicos.** Se ut
 ### ***Postura de seguridad***
 Es la capacidad de una organización de **administrar sus defensas de activos y datos críticos y reaccionar ante los cambios.** Una fuerte postura de sseguridad conduce a un menor riesgo en la organización.
 
-### ***Agente de amenza***
-Persona o grupo de personas que representan una **amenaza intencional para computadoras, apliaciones y redes.**
-
 ### ***Seguridad de la red***
 Es un conjunto de practicas que buscan **evitar el acceso no autorizado a la infraestructura de red de una organización** (datos,servicios, sistemas, dispositivos).
 
@@ -77,6 +74,8 @@ Es el proceso que permite crear un conjunto específico de instrucciones para qu
 - Automatización de tareas repetitivas.
 - Revisión del tráfico web.
 - Alerta de actividades sospechosas.
+
+
 
 
 
