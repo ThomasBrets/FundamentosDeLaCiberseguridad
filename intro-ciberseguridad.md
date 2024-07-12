@@ -1,10 +1,9 @@
 # Introducción a la ciberseguridad
 ---
+ 
 
-# Intro
-___
 
-## Definiciones
+## Intro-Definiciones
 
 ### Ciberseguridad
 
@@ -57,7 +56,7 @@ Es el proceso de **adhesión a normas internas y reglamentos externos** que perm
 Son medidad diseñadas para **reducir riesgos de Seguridad específicos.** Se utiliza junto a los marcos de seguridad para establecer una postura de seguridad sólida.
 
 ### ***Postura de seguridad***
-Es la capacidad de una organización de **administrar sus defensas de activos y datos críticos y reaccionar ante los cambios.** Una fuerte postura de sseguridad conduce a un menor riesgo en la organización.
+Es la capacidad de una organización de **administrar sus defensas de activos y datos críticos y reaccionar ante los cambios.** Una fuerte postura de seguridad conduce a un menor riesgo en la organización.
 
 ### ***Seguridad de la red***
 Es un conjunto de practicas que buscan **evitar el acceso no autorizado a la infraestructura de red de una organización** (datos,servicios, sistemas, dispositivos).
