@@ -59,3 +59,11 @@ Los analistas de ciiberseguridad deben poder seguir las políticas y procedimien
 
 ### Información de identificación Personal (PII) 
 Es cualquier información que se pueda deducir la **identidad de una persona** (nombre, Fecha de nacimiento, dirección, Nº de teléfono, etc.).
+
+### Información de identificación Personal sensible (SPII)
+Es un tipo Específico de PII que se rige por pautas de manejo más estictas (Nº de seguridad social, datos médicos, financieros, reconocimietno facial, etc.).
+
+### Suplantación de la identidad
+Consiste en robar datos personales para cometer fraude haciéndose pasar por la víctima. Su objetivo principal es el beneficio económico 
+
+
