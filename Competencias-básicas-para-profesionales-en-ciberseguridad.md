@@ -45,3 +45,17 @@ Un profesional de la seguridad usa las herramientas *SIEM* para identificar y an
 - #### Informática forense
 La informática forense digital trata de identificar, analizar y preservar las pruebas delictivas dentro de las redes, computadoras y dispositivos electrónicos. 
 
+- #### Sistemas de detección de instrucciones (IDS)
+Los analistas en ciberseguridad utilizan los IDS para monitorear la actividad del sistema y las alertas de posibles infiltraciones.
+
+- #### Conocimiento del panorama de amenazas
+Es vital estar al tanto de las tendencias actuales relacionadas con los agentes de amenazas, malware o las metodologías. Este cocnocimiento permite a los equipos de ciberseguridad construir defensas mas sólidas contra la táctica y técnica de los agentes de amenazas.
+
+- #### Resuesta a incidentes
+Los analistas de ciiberseguridad deben poder seguir las políticas y procedimientos establecidos para responder adecuadamente a los incidentes.
+
+
+## La importancia de la ciberseguridad
+
+### Información de identificación Personal (PII) 
+Es cualquier información que se pueda deducir la **identidad de una persona** (nombre, Fecha de nacimiento, dirección, Nº de teléfono, etc.).
