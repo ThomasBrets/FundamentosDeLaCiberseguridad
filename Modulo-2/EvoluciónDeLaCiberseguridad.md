@@ -51,3 +51,37 @@ Es el uso de comunicaciones digitales en las que se **suplanta la identidad de u
 
 Algunos de los tipos más comunes de ataques de *phishing* actuales son:
 
+- #### Compromiso del email empresarial (BEC) : 
+Tipo de ataque de suplantación de identidad,en el que un agente de amenaza **envia un email y se hace pasar por una persona conocida** por la víctima e **intenta que realice una acción**, como enviar dinero u otorgar datos confidenciales de la compañía.  
+
+- #### Phishing localizado (spear phishing) : 
+Ataque por **email malicioso** dirigido a una persona o grupo de personas específico que **parece** provenir de una **fuente confiable**.
+
+- #### Ataque "Caza de ballenas" (Whaling) :
+Es un tipo de **phishing localizado** en el que el agente de amenaza busca acceder a los datos confidenciales de **ejecutivos de una empresa**. 
+
+- #### Vishing : 
+Un tipo de estafa por suplantación de identidad en la que se busca obtener información sensible a través de una **llamada telefónica**.
+
+- #### Smishing :
+Ataque de **phishing por SMS** para engañar a los usuarios, con el fin de obtener información confidencial o hacerse pasar por una fuente conocida. 
+
+### Software Malicioso
+Software diseñado para **dañar dispositivos o redes**. EL propósito principal del ataque es obtener **dinero** o en algunos casos, **información** para usar en contra de una persona organización o territorio.
+
+Algunos de los tipos más comunes de ataques de *software malicioso* actuales son:
+
+- #### Virus informático (computer virus) :
+Es un código malicioso creado para **interferir con las operaciones de la computadora y dañar datos, software y hardware**. El virus se instala en programas o documentos de una computadora y luego, **se propaga e infecta una o más computadoras en una red**.
+
+- #### Gusano (worm) :
+Es un *software malicioso* que puede duplicarse y propagarse **por si mismo**.
+
+- #### Rasomware (secuestro de datos) :
+Es un ataque malicioso en el que los agentes de amenaza **cifran los datos** de una organización y **exigen un pago** para **restablecer el acceso** a ellos. 
+
+- #### spyware : 
+Es un tipo de *software malicioso* que se usa para **obtener y vender información sin consentimiento**. Se puede usar para acceder a dispositivos, lo cual permite a los agentes de amenaza recopilar datos personales.
+
+
+
