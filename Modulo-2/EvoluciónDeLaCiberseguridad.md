@@ -83,5 +83,9 @@ Es un ataque malicioso en el que los agentes de amenaza **cifran los datos** de 
 - #### spyware : 
 Es un tipo de *software malicioso* que se usa para **obtener y vender información sin consentimiento**. Se puede usar para acceder a dispositivos, lo cual permite a los agentes de amenaza recopilar datos personales.
 
+ ### Ingeniería social
+Es una **técnica de manipulación** que aprovecha errores humanos para **obtener** información privada, acceso a sistemas o bienes de valor. La misión de un agente de amenaza que actúa como ingeniero social es **crear un entorno de confianza falso y mentir para aprovecharse**
+
+
 
 
