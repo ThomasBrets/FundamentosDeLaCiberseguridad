@@ -84,8 +84,49 @@ Es un ataque malicioso en el que los agentes de amenaza **cifran los datos** de 
 Es un tipo de *software malicioso* que se usa para **obtener y vender información sin consentimiento**. Se puede usar para acceder a dispositivos, lo cual permite a los agentes de amenaza recopilar datos personales.
 
  ### Ingeniería social
-Es una **técnica de manipulación** que aprovecha errores humanos para **obtener** información privada, acceso a sistemas o bienes de valor. La misión de un agente de amenaza que actúa como ingeniero social es **crear un entorno de confianza falso y mentir para aprovecharse**
+Es una **técnica de manipulación** que aprovecha errores humanos para **obtener** información privada, acceso a sistemas o bienes de valor. La misión de un agente de amenaza que actúa como ingeniero social es **crear un entorno de confianza falso y mentir para aprovecharse**.
 
+Algunos de los tipos más comunes de *ingeniería social* actuales son:
 
+- #### Ataque de suplantación de identidad en redes sociales (phishing en redes sociales) :
+Es un tipo de ataque en el que el agente de amenaza contacta a la víctima en alguna red social para **robar información** o **quedarse con la cuenta**.
+
+- #### Ataque de "agujero de agua" (Watering hole) : 
+Un agente de amenaza ataca un **sitio web** visitado con frecuencia por un **grupo específico de usuarios**.
+
+- #### Cebo USB :
+Un agente de amenaza deja estratégicamente una **unidad de USB que contiene software malicioso** para que un empleado lo encuentre y lo instale, con el fin de causar la **infección involuntaria de una red**.
+
+- #### Ingeniería social física :
+Un agente de amenaza **se hace pasar** por una persona ligada a la empresa para obtener **acceso no autorizado a una ubicación física**.
+
+### Principios de la ingeniería social 
+La **ingeniería social** es eficaz porque las personas suelen ser confiadas y tienen firmemente establecido el respeto a la autoridad. La cantidad de ataques de ineniería social **aumenta** a medida que crece la cantidad de aplicaciones de redes sociales que **permiten el acceso público a los datos de las personas**.
+
+Los motivos por los cuales los ataques de *ingeniería social* son eficaces son:
+
+- #### Autoridad :
+Los agentes de amenaza se hacen pasar por **personas con autoridad** porque los individuos suelen respetarlas.
+
+- #### Intimidación :
+Los agentes de amenaza utilizan **tácticas de hostigamiento**, como asustar las víctimas para que sigan sus órdenes.
+
+- #### Consenso / Prueba social :
+Como las personas a veces hacen cosas convencidas de que otras tambien las hacen, los agentes de amenaza **utilizan esta confianza** en los demas para dar una **impresión de legitimidad**.
+
+##### Ejemplo: 
+Para obtener acceso a datos privados, un agente de amenaza puede decir a un empleado que **otros miembros de la empresa ya le han otorgado el acceso** en otras ocaciones.
+
+- #### Escasez : 
+El agente de amenaza le da a entender a la persona que existe **disponibilidad limitada** a ciertos bienes o servicios, para **convencerla de hacer algo**.
+
+- #### Familiaridad : 
+Los agentes de amenaza establecen **falsos lazos emocionales** con los usuarios de quienes desean aprovecharse, para lograr su objetivo.
+
+- #### Confianza : 
+Los agentes de amenaza establecen una relación afectiva con los usuarios, que les permite aprovecharse de ellos con el *paso del tiempo* y acceder a su información personal.
+
+- #### Urgencia :
+Un agente de amenaza **persuade** a las personas para que **respondan con rapidez** sin hacer preguntas.
 
 
