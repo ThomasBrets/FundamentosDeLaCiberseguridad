@@ -1,16 +1,7 @@
 # La Hisoria de la Ciberseguridad 
 ---
 
-## Definiciones
 
-### Computer Virus (Virus informático)
-Es un código malicioso escrito para interferir con operaciones informáticas y **causar daños a los datos y el software.** El virus se adhiere a programas o documentos en una computadora. Luego **se propaga e infecta uno o más computadoras en una red.**
-
-### Worm (Gusano)
-Es un tipo de *Computer virus* que puede duplicarse y propagarse por su cuenta. 
-
-### Malware (software malicioso)
-Es software diseñado para dañar dispositvios o redes.
 
 ## Dos Ataques tempranos de *Malware* : Virus Brain y Gusano Morris
 
@@ -66,7 +57,7 @@ Un tipo de estafa por suplantación de identidad en la que se busca obtener info
 - #### Smishing :
 Ataque de **phishing por SMS** para engañar a los usuarios, con el fin de obtener información confidencial o hacerse pasar por una fuente conocida. 
 
-### Software Malicioso
+### Software Malicioso (Malware)
 Software diseñado para **dañar dispositivos o redes**. EL propósito principal del ataque es obtener **dinero** o en algunos casos, **información** para usar en contra de una persona organización o territorio.
 
 Algunos de los tipos más comunes de ataques de *software malicioso* actuales son:
