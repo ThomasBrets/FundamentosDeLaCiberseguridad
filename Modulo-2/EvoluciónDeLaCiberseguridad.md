@@ -33,6 +33,7 @@ Se robaron más de **143 millones de registros de clientes** y la fuga afectó a
 Desde el punto de vista de la seguridad, la fuga se produjo debido a múltiples fallas por parte de Equifax. **La empresa no tomó las medidas necesarias** para reparar múltiples vulnerabilidades conocidas en los meses previos a la fuga.
 Al final, **Equifax llegó a un acuerdo con el gobierno de los EE.UU. y pagó mas de 575 millones de dólares** para resolver reclamos de los clientes y cubrir las multas requeridas.
 
+___
 
 ## Ataques comunes y su eficacia
 Anteriormete, aprendiste acerca de los ataques pasados y actuales que ayudaron a moldear el campo de la ciberseguridad. Uno de sus resultados fue el desarrollo de los **equipos de respuesta ante inicidentes de seguridad informática (CSIRT, por sus siglas en inglés)**. En esta lectura conocerás más detalles sobre los métodos de ataque mas comunes.

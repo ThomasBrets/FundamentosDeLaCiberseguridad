@@ -54,6 +54,7 @@ Es vital estar al tanto de las tendencias actuales relacionadas con los agentes 
 - #### Resuesta a incidentes
 Los analistas de ciiberseguridad deben poder seguir las políticas y procedimientos establecidos para responder adecuadamente a los incidentes.
 
+___
 
 ## La importancia de la ciberseguridad
 
