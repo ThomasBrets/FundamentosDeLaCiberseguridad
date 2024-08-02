@@ -110,7 +110,7 @@ Los ataques de ingeniería social están relacionados con el dominio de **seguri
 
 ### Ataque físico
 
-Es un **incidente de seguridad** que afecta no solo a los entornos digitales, sino también a los **físicos** en los que se produce el incidente. Algunos tipos de ataques físicos son:
+Incidente de seguridad que afecta a los entornos **digitales y físicos** en donde se implementa. Algunos tipos de ataques físicos son:
 
 - Cable USB malicioso
 - Unidad flash maliciosa
@@ -120,7 +120,7 @@ Los ataques físicos pertenecen al dominio de **seguridad de los activos**.
 
 ### Inteligencia artificial antagónica
 
-Es una técnica que manipula la tecnología de inteligencia artificial y el aprendizaje automático para perpretar ataques de manera más eficiente.  
+Técnica que **manipula** la tecnología de **inteligencia artificial y aprendizaje automático** para ejecutar ataques más eficientes. 
  Pertenece a los dominios de **seguridad de comunicación y redes** y al de **gestión de identidad y acceso**.
 
 ### Ataque a la cadena de suministro
@@ -203,3 +203,5 @@ Los agentes de amenaza **sin experiencia** tienen diversos objetivos, como por e
 
 También existen hackers que se consideran a si mismos **vigilantes**, y su propósito es **proteger** al mundo de los **hackers no éticos**.
 
+## Conclusión
+Los agentes de amenaza y los hackers son **hábiles en el campo técnico**. Comprender sus **motivaciones e intenciones** te ayudarán a prepararte mejor para **proteger tu organización** y a las personas a las que esta sirve contra los ataques maliciosos ejecutados por algunos de estos grupos o personas.  

@@ -1,4 +1,4 @@
-# Conclusión
+# Resumen
 
 ---
 
