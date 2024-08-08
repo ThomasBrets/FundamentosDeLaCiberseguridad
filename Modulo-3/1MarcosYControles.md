@@ -68,7 +68,7 @@ Puede haber una directiva de que los colaboradores deben hacer una **capacitaci�
 
 La tríada de **confidencialidad, integridad y disponibilidad (CID)** es una guía que ayuda a las organizaciones a evaluar los riesgos y a establecer sistemas y políticas de seguridad.
 
-![CID](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/55iAZH0ESLaAdStv7rRCXg_0ce2ca8a7c00436a9fd75aa3a101d0f1_Aeqa1niUnl-i0M_nV8QNT9Bp-2_8WdfueshhNMCJOKc37q60pyEczilBdM1kuebQpV-k-N06It9s-tNTMtX_0ZJ9k86FNWMxq-RFxYu25DdOiMvxUz3iXwrkft8OqEBV8TdzhUhfDR7tgw2mfm6uwg?expiry=1723075200000&hmac=7cT3-o5SxAxC448soPpO7xJag4oFP4HYzTSBiiFh42Y)
+![CID](https://www.imperva.com/learn/wp-content/uploads/sites/13/2020/06/Cybersecurity-@2x1.svg)
 
 ### Confidencialidad
 
