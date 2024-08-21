@@ -188,6 +188,7 @@ Existen numerosas regulaciones que se revisan con frecuencia. Te recomendamos ma
 ## Orden Ejecutiva De los Estados Unidos 14028
 **El 12 de mayo de 2021**, el presidente de los Estados Unidos Joe Biden emitió una orden ejecutiva con el objetivo de **mejorar la ciberseguridad de la nación** y hacer frente al aumento de la actividad de quienes perpetran amenazas. Esta medida tiene como objetivo principal **abordar y solucionar las vulnerabilidades presentes en las agencias federales y en terceros vinculados a la infraestructura crítica** de los Estados Unidos.
 
+---
 
 ## Conclusión
 En esta lectura, has conocido más acerca de los **controles, los marcos y el cumplimiento regulatorio**. También, has aprendido cómo estos elementos **trabajan en conjunto** para ayudar a las organizaciones a mantener un **nivel de riesgo bajo**.  
